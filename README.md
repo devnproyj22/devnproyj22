@@ -83,4 +83,4 @@ Here are some ideas to get you started:
 <br/>
 
 ## Preferred Stack
-* Git, Python, Django
+* **Git, Python, Django**
