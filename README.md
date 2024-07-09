@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 <div/>
 
 <br/>
+
 ## Conntect with ME 
 <div align='center'>
   <a href='https://www.notion.so' target='_blank'>
@@ -46,6 +47,7 @@ Here are some ideas to get you started:
 <!-- REFERENCE : https://shields.io/ -->
 
 <br/>
+
 ## My Skill Set
 <table><tr><td valign='top' width='33%'>
 
@@ -76,6 +78,8 @@ Here are some ideas to get you started:
 
 </tr>
 </table>
+
+<br/>
 
 ## Preferred Stack
 * Git, Python, Django
