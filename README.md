@@ -25,12 +25,12 @@ Here are some ideas to get you started:
 
 ## <div align='left'> Hello there 👋 I'm Yujeong Lee, a BACKEND developer.
 
-* Writes Generative AI Prompts for tools such as Claude(paid version), Copilot, Gemini, ChatGPT4
+* Writes Generative AI Prompts for tools such as Claude(paid version), Copilot, Gemini, ChatGPT4.
 * I've done toy project; web crawling, data analysis and large-scale generative models.
 
-🔭 I’m currently seeking a position as a backend developer using Python and Django.
-🌱 I’m currently learning how to write a technical blogs.
-📫 How to reach me: devnproyj22@gmail.com
+🔭 I’m currently seeking a position as a backend developer using Python and Django.  
+🌱 I’m currently learning how to write a technical blogs.  
+📫 How to reach me: devnproyj22@gmail.com  
 
 <div/>
 
