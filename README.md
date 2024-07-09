@@ -45,7 +45,8 @@ Here are some ideas to get you started:
     <img src=https://img.shields.io/badge/GitHub-FFEEEE.svg?&style=for-the-badge&logo=GitHub&logoColor=black alt=GitHub style='margin-bottom: 5px;'/>
     <a/>
 <!-- REFERENCE : https://shields.io/ -->
-
+</div>
+      
 <br/>
 
 ## My Skill Set
